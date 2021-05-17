@@ -1,2 +1,2 @@
-# delphi7-inicializar-arquivos
- 
+# Abrir arquivos com Delphi7
+Abrir arquivos
